@@ -34,4 +34,4 @@ jobs:
           file: ./Dockerfile
           push: true
           platforms: linux/amd64
-          tags: ghcr.io/noobyysauraj/${TAG}:latest
+          tags: ghcr.io/noobyysauraj/bhindows:latest
